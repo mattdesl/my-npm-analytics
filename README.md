@@ -6,7 +6,7 @@ Fork this repo and modify `index.html`, replacing `YOUR_TRACKING_ID` with the UA
 
 ```js
 ...
-  ga('create', YOUR_TRACKING_ID, 'auto');
+  ga('create', 'YOUR_TRACKING_ID', 'auto');
   ga('send', 'pageview');
 ...
 ```
